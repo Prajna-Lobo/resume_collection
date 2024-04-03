@@ -1,26 +1,34 @@
-<div align="left">
-  <h1>Prajna Priyanka Lobo</h1>
-  <p>
-    :diamond_shape_with_a_dot_inside: Senior Specialist Software Engineer
-    <br />
-    :round_pushpin: Bengaluru, India/Remote<br/>
-    <br/>
-    :e-mail: shineprajna@gmail.com<br/>
-    <a href="https://github.com/Prajna-Lobo">Github</a>
-     <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-    <a href="https://www.linkedin.com/in/prajna-lobo">Linkedin</a>
-  </p>
-</div>
+<a name="readme-top"></a>
+<h1>Prajna Priyanka Lobo</h1>
+
+
+:diamond_shape_with_a_dot_inside: Senior Specialist Software Engineer
+<br />
+:round_pushpin: Bengaluru / Remote<br/>
+
+
+<p>
+	&nbsp;&nbsp;
+	<a href="https://github.com/Prajna-Lobo">
+		<img src="github-mark-white.png" alt="github" width="40" height="40"/>
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/prajna-lobo">
+		<img src="LI-In-Bug.png" alt="linkedIn" width="40" height="40"/>
+	</a>
+</p>
+
+`shineprajna@gmail.com`
+
+
 
 <!-- PROFESSIONAL SUMMARY -->
-## PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 
 Passionate and skilled software engineer with hands-on experience in Go (Programming Language), Docker, Kubernetes, Kafka ,Redis, MongoDB, MySQL, Helm, Istio and Microservice architecture.
 
 <!-- WORK HISTORY -->
-## WORK HISTORY
+### WORK HISTORY
 
 **Senior Specialist Software Engineer | 05/2023 - Current** <br />
 :office:`LTIMindtree`<br />
@@ -92,9 +100,11 @@ Bengaluru, India<br/>
 :white_check_mark: Android <br/>
 :white_check_mark: React <br/>
 
-## EDUCATION
+### EDUCATION
 Bachelor of Engineering, Computer Science <br/>
 :school: `Visvesvaraya Technological University - Belgaum, India`
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 :trophy: Oracle Certified Java Proffession
+
+<p align="right"><a href="#readme-top"> ⬆️ </a></p>
