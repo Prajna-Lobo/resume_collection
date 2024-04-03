@@ -1,14 +1,15 @@
 <a name="readme-top"></a>
-<h1>Prajna Priyanka Lobo</h1>
+
+# Prajna Priyanka Lobo
 
 
-:diamond_shape_with_a_dot_inside: Senior Specialist Software Engineer
-<br />
-:round_pushpin: Bengaluru / Remote<br/>
+### Senior Specialist Software Engineer
 
+<img src="email.png" alt="shineprajna@gmail.com" width="15" height="15"/>&nbsp;&nbsp;`shineprajna@gmail.com`
 
-<p>
-	&nbsp;&nbsp;
+:round_pushpin: Bengaluru / Remote
+
+<p align="right">
 	<a href="https://github.com/Prajna-Lobo">
 		<img src="github-mark-white.png" alt="github" width="40" height="40"/>
 	</a>
@@ -18,17 +19,16 @@
 	</a>
 </p>
 
-`shineprajna@gmail.com`
 
 
 
 <!-- PROFESSIONAL SUMMARY -->
-### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
 Passionate and skilled software engineer with hands-on experience in Go (Programming Language), Docker, Kubernetes, Kafka ,Redis, MongoDB, MySQL, Helm, Istio and Microservice architecture.
 
 <!-- WORK HISTORY -->
-### WORK HISTORY
+## WORK HISTORY
 
 **Senior Specialist Software Engineer | 05/2023 - Current** <br />
 :office:`LTIMindtree`<br />
@@ -100,11 +100,11 @@ Bengaluru, India<br/>
 :white_check_mark: Android <br/>
 :white_check_mark: React <br/>
 
-### EDUCATION
+## EDUCATION
 Bachelor of Engineering, Computer Science <br/>
 :school: `Visvesvaraya Technological University - Belgaum, India`
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 :trophy: Oracle Certified Java Proffession
 
 <p align="right"><a href="#readme-top"> ⬆️ </a></p>
